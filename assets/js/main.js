@@ -154,7 +154,7 @@ window.addEventListener('scroll', scrollHeader)
 
 /*=============== multipl text ===============*/
 var typed = new Typed('.multiple__text', {
-  strings: ["Frontend Developer", "Blogger"],
+  strings: ["Frontend dev", "Web design", "App dev","Blogger"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
